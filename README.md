@@ -2,7 +2,8 @@
 
 React app for reading literary work "檸檬"
 
-![capture](./lemon.gif)
+|![capture](./lemon.gif)|
+|:-:|
 
 Input text is from [Aozora Bunko](https://www.aozora.gr.jp/)
 
