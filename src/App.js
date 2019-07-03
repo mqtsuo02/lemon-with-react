@@ -1,5 +1,5 @@
 import React from "react";
-import MessageBox from "./Components/MessageBox";
+import MessageBox from "./components/MessageBox";
 import lemonText from "./lemonText";
 
 const formatText = text => text.replace(/\r?\n/g, "").replace(/　/g, "");
